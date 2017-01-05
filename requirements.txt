@@ -2,3 +2,4 @@ flask
 flask-cors
 flask-script
 pytest
+werkzeug
